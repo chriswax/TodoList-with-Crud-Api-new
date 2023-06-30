@@ -1,0 +1,4 @@
+#Fri Jun 30 16:06:25 WAT 2023
+base.0=C\:\\Users\\chris\\Documents\\Citechs\\Flutter\\todo_list_ui_api\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
